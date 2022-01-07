@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MunaAyedh
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Game Development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Muna.a@outlook.sa
 
 <!---
